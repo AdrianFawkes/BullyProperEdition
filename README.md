@@ -1,43 +1,51 @@
-<p align="center">
-  <img src="assets/proper.jpg" alt="Bully Proper Edition">
-</p>
+# 🏫 Bully Proper Edition
 
-# Bully Proper Edition
+![Bully Proper Edition Banner](assets/proper.jpg)
 
-This project brings the definitive and enhanced experience to Bully: Scholarship Edition, modernizing visuals, unlocking native performance, and applying essential fixes for modern hardware.
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/AdrianFawkes/BullySE-Proper?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-## Features & Improvements
+Welcome to the **Bully Proper Edition** repository. This project brings the definitive and enhanced experience to Bully: Scholarship Edition, modernizing visuals, unlocking native performance, and applying essential fixes for modern hardware.
 
-### Performance & Frame Rate
-* **True High FPS:** Native support for 60, 90, and 120 FPS without game speed-ups, physics bugs, or mission-breaking glitches.
-* **Perfect Sync:** All missions, classes, and minigames (including the Music class rhythm game) are perfectly synced and fully completable at high frame rates.
-* **Original Physics & Timing:** Bike jump heights, spray tagging speed, and school bus entry/exit animations operate at their original intended speeds, regardless of your FPS.
-* **Responsive Controls:** Button mashing actions (like escaping grapples and stuns) are stabilized and responsive at any frame rate.
-* **Mouse Fixes:** Fixed mouse camera sensitivity issues when playing above 60 FPS.
+---
 
-### Graphics & World Streaming
-* **Enhanced Draw Distance:** Doubled draw distance with smooth fade-ins, eliminating sudden pop-in. Trees, buildings, and the carnival rides are now visible from a much greater distance.
-* **Increased Limits:** Engine object and memory limits have been raised to support the expanded draw distance with full stability.
-* **Enhanced Player Shadows:** Jimmy and NPCs now cast accurate, dynamic shadows that follow the sun's position (similar to the Nintendo Wii version).
-* **High-Resolution Shadows:** Global shadows are rendered at 4x the original resolution (4096x instead of 1024x) for crisp, clean edges.
-* **Xbox 360 Visuals:** Optional Xbox 360 aesthetics included in the menu (restoring the original console color palette, bloom, and interior fog).
-* **Visual Bug Fixes:** Eliminated classic visual glitches such as flickering fences and hedges, sky clipping through fences, the shimmering motel sign, and floating road cracks.
+## ⚠️ Disclaimer
 
-### Quality of Life & UI
-* **Achievements System:** Integrated 38 original Xbox 360 achievements complete with on-screen pop-up notifications and a dedicated log tab in the Stats menu.
-* **Display Modes:** Full Screen, Borderless, and Windowed mode options directly integrated into the native Video menu.
-* **Mouse Menus:** Full point-and-click mouse navigation support added for title and pause menus.
-* **Controller Hot Switching:** Seamless and instant transition between keyboard/mouse and gamepad at any time.
-* **Fast Boot (Optional):** Skip developer intro logos and the main menu, loading directly into your most recent save file.
+**Bully: Scholarship Edition** is a property of **Rockstar Games** and **Take-Two Interactive**. 
+This project is an unofficial community modification and is **NOT** affiliated with, endorsed by, or connected to Rockstar Games or Take-Two Interactive in any way. You must provide your own legal copy of the game to use this software. 
 
-### Audio & General Fixes
-* **Surround Sound Fix:** Resolved audio issues on 7.1, quad, and spatial audio setups where footsteps, voices, and distant effects would play at maximum volume.
-* **AI Dialogue Fix:** Addressed a bug that caused NPCs to endlessly repeat the same voice lines.
-* **Weapon Wheel Fix:** The rubber band ball no longer replaces other weapons/items while riding a bike.
-* **Spud Cannon Fix:** Fixed the involuntary rightward aiming drift while holding the fire button on the spud cannon.
+---
 
-## Credits
+## ✨ Features
 
-Special thanks to the following creators for their foundational tools and contributions:
-* **CookiePLMonster**
-* **imjbyo**
+- **True High FPS:** Native support for 60, 90, and 120 FPS without game speed-ups, physics glitches, or broken missions (perfect sync for minigames).
+- **Enhanced World Streaming:** Doubled draw distance with smooth fade-ins, eliminating sudden pop-in for trees, buildings, and distant objects.
+- **Upgraded Graphics & Shadows:** Global 4K resolution shadows (4096x), dynamic player/NPC shadows tracking the sun, and optional Xbox 360 visual aesthetics (colors, bloom, fog).
+- **Achievements System:** 38 original Xbox 360 achievements fully integrated with on-screen pop-ups and a dedicated Stats menu tracker.
+- **Quality of Life:** Borderless/Windowed display modes, point-and-click mouse menus, controller hot-switching, and a Fast Boot option to skip intro logos.
+- **Crucial Bug Fixes:** Fixes for surround sound audio blasting at max volume, repeating AI dialogues, flickering textures, and weapon wheel glitches.
+
+---
+
+## 🚀 Installation & Usage
+
+1. Ensure you have a clean installation of **Bully: Scholarship Edition** (Steam version 1.200).
+2. Install [SilentPatch for Bully](https://gtaforums.com/topic/897022-silentpatch-bully-scholarship-edition/) (required for ASI loading and frame-rate foundations).
+3. Navigate to the [Releases](https://github.com/AdrianFawkes/BullySE-Proper/releases) page.
+4. Download the latest `.zip` archive.
+5. Extract the contents (the `plugins` folder) directly into your Bully game directory (next to `SilentPatchBully.asi`).
+6. Launch the game, configure your new settings in the **Video** menu, and enjoy!
+
+---
+
+## 🏆 Credits & Acknowledgements
+
+This project stands on the shoulders of giants. Massive thanks to the following developers and projects:
+
+- **imjbyo:** For the core true FPS patching, shadow enhancements, and major engine fixes (JB's True FPS Patch).
+- **CookiePLMonster (Silent):** For **SilentPatch**, the essential foundation that makes these deep engine modifications possible.
+- **ThirteenAG:** For the **Ultimate ASI Loader** and **Widescreen Fix** (highly recommended companion mod).
+
+---
+*Built for the community, by the community.*
