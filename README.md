@@ -1,4 +1,4 @@
-# ✧ Bully Proper Edition
+# ▹ Bully Proper Edition
 
 ![Bully Proper Edition Banner](assets/proper.jpg)
 
