@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-Welcome to the **Bully Proper Edition** repository. This project brings the definitive and enhanced experience to Bully: Scholarship Edition, modernizing visuals, unlocking native performance, and applying essential fixes for modern hardware.
+Welcome to the **Bully Proper Edition** repository. This project brings the definitive and enhanced experience to Bully: Scholarship Edition, modernizing visuals, unlocking native performance, and applying essential fixes for modern hardware. All necessary improvements and foundational fixes are included in this standalone release.
 
 ---
 
@@ -31,21 +31,18 @@ This project is an unofficial community modification and is **NOT** affiliated w
 ## 🚀 Installation & Usage
 
 1. Ensure you have a clean installation of **Bully: Scholarship Edition** (Steam version 1.200).
-2. Install [SilentPatch for Bully](https://gtaforums.com/topic/897022-silentpatch-bully-scholarship-edition/) (required for ASI loading and frame-rate foundations).
-3. Navigate to the [Releases](https://github.com/AdrianFawkes/BullySE-Proper/releases) page.
-4. Download the latest `.zip` archive.
-5. Extract the contents (the `plugins` folder) directly into your Bully game directory (next to `SilentPatchBully.asi`).
-6. Launch the game, configure your new settings in the **Video** menu, and enjoy!
+2. Download the latest `.zip` archive from the Releases section.
+3. Extract all contents directly into your Bully game directory (overwrite any files if prompted).
+4. Launch the game, configure your new settings in the **Video** menu, and enjoy!
 
 ---
 
 ## 🏆 Credits & Acknowledgements
 
-This project stands on the shoulders of giants. Massive thanks to the following developers and projects:
+This project builds upon the incredible work of the modding community. Massive thanks to the following developers:
 
-- **imjbyo:** For the core true FPS patching, shadow enhancements, and major engine fixes (JB's True FPS Patch).
-- **CookiePLMonster (Silent):** For **SilentPatch**, the essential foundation that makes these deep engine modifications possible.
-- **ThirteenAG:** For the **Ultimate ASI Loader** and **Widescreen Fix** (highly recommended companion mod).
+- **imjbyo:** For the core true FPS patching, shadow enhancements, and major engine fixes.
+- **CookiePLMonster (Silent):** For the essential **SilentPatch** foundation that makes these deep engine modifications possible.
 
 ---
 *Built for the community, by the community.*
